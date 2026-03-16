@@ -15,12 +15,21 @@ Create a private S3 bucket, upload sample files, organize objects with prefixes,
 
 ## Structure
 project-01-s3-foundations/
+
 ├── README.md
+
 ├── commands.md
+
 ├── architecture-diagram.png
+
 ├── notes/
+
 │   └── lessons-learned.md
+
 ├── screenshots/
+
 │   └── screenshot-1.png
+
 └── sample-policies/
+
     └── bucket-notes.md
