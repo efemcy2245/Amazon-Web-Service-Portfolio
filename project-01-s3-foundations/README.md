@@ -175,4 +175,4 @@ After finishing this project, I plan to continue with:
 
 ## Author
 
-Created by **[Your Name]** as part of my AWS learning portfolio.
+Created by **Davide** as part of my AWS learning portfolio.
